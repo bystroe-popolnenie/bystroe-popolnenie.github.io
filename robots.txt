@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bystroe-popolnenie.github.io
+Sitemap: https://bystroe-popolnenie.github.io/sitemap.xml
